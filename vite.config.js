@@ -1,6 +1,6 @@
 // vite.config.js
 
 export default {
-        base: '/my-vite-app/',
+        base: '/app/app1/',
       };
       
